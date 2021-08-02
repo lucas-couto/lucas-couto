@@ -1,4 +1,4 @@
-### Hi there 👋
+### Fala pessoal! 👋
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-couto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
